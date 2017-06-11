@@ -1,0 +1,21 @@
+{
+  "name": "gyv",
+  "description": "Get Your Voucher Application",
+  "main": "",
+  "authors": [
+    "Purwana Abdi Pujangga <purwanaabdip@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+
+  }
+}
